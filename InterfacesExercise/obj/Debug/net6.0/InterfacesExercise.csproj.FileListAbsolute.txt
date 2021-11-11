@@ -1,0 +1,15 @@
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\bin\Debug\net6.0\InterfacesExercise.exe
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\bin\Debug\net6.0\InterfacesExercise.deps.json
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\bin\Debug\net6.0\InterfacesExercise.runtimeconfig.json
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\bin\Debug\net6.0\InterfacesExercise.dll
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\bin\Debug\net6.0\ref\InterfacesExercise.dll
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\bin\Debug\net6.0\InterfacesExercise.pdb
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.csproj.AssemblyReference.cache
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.AssemblyInfoInputs.cache
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.AssemblyInfo.cs
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.dll
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\ref\InterfacesExercise.dll
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.pdb
+C:\Users\Rangel\Documents\Estudos C#\projetos\InterfacesExercise\InterfacesExercise\obj\Debug\net6.0\InterfacesExercise.genruntimeconfig.cache
